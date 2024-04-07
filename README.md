@@ -47,7 +47,8 @@ int main(void)
 ```
 
 ## OUTPUT
-![pid](./pid.png)
+![WhatsApp Image 2024-04-04 at 11 06 06_70bdc76d](https://github.com/mugil25/Linux-Process-API-fork-wait-exec/assets/148515771/aeaa89e5-6116-490c-a0c5-bd3b277301de)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -78,7 +79,8 @@ int main() {
 ```
 ## OUTPUT
 
-![output](./fork.png)
+![WhatsApp Image 2024-04-04 at 11 06 07_99b9fe30](https://github.com/mugil25/Linux-Process-API-fork-wait-exec/assets/148515771/2eee2aba-d5e8-42a1-a3ee-800f54122099)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -111,7 +113,8 @@ int main() {
 }
 ```
 ## output
-![output](./execcheck.png)
+![WhatsApp Image 2024-04-04 at 11 06 07_058e2d44](https://github.com/mugil25/Linux-Process-API-fork-wait-exec/assets/148515771/01adb0db-7cf3-4515-9628-0cf83a57eb48)
+
 
 # RESULT:
 The programs are executed successfully.
